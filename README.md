@@ -13,6 +13,7 @@
 | Mn           | Manganese              |
 | Sn           | Tin                    |
 | Pb           | Lead                   |
+| Ti           | Titanium               |
 
 # Rubber Sheet
 
@@ -80,3 +81,16 @@ Easy Way (need to do hard way first for the feeding block -- Mn Dust)
 
 1. Cu Dust + (250mB) Oxygen in _EBF (Kanthal Tier)_ -> Annealed Cu Hot Ingot
 2. Annealed Cu Hot Ingot in _Vacuum Freezer_ -> Annealed Cu Ingot
+
+# Titanium
+
+Titanium is able to be mined using the _Electric Quarry + Stainless Steel Drill_ but this is quite slow. Since we are playing ATM10, we can use an alternate method via Mekanism to acquire Ti.
+
+1. Flint or (200mB) Oxygen + Raw Al in _Purification Chamber (Mekanism)_ -> (2) Al Clump
+2. Al Clump in _Crusher (Mekanism)_ -> (2) Dirty Al Clump
+3. (10) Al Clump in _Electrolyzer_ -> (4) Al Dust + (3) Tiny Ti Dust + (2000mB) Oxygen
+4. (9) Tiny Ti Dust -> Ti Dust
+5. Ti Dust in _EBF (Kanthal Tier)_ -> Ti Hot Ingot
+6. Ti Hot Ingot in _Vacuum Freezer_ -> Ti Ingot
+
+There is a Titanium Bee that is made from breeding a Diamond Bee with an Iron Bee. You can now use that bee for titanium.
