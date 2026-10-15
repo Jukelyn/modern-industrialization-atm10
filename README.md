@@ -1,14 +1,18 @@
-EBF = Electric Blast Furnace
-H = Hydrogen
-Cl = Chlorine
-HCl = Hydrochloric Acid
-Al = Aluminum
-Cu = Copper
-Fe = Iron
-Ni = Nickel
-Mn = Manganese
-Sn = Tin
-Pb = Lead
+# Abbreviation Table
+
+| Abbreviation | Meaning                |
+| ------------ | ---------------------- |
+| EBF          | Electric Blast Furnace |
+| H            | Hydrogen               |
+| Cl           | Chlorine               |
+| HCl          | Hydrochloric Acid      |
+| Al           | Aluminum               |
+| Cu           | Copper                 |
+| Fe           | Iron                   |
+| Ni           | Nickel                 |
+| Mn           | Manganese              |
+| Sn           | Tin                    |
+| Pb           | Lead                   |
 
 # Rubber Sheet
 
