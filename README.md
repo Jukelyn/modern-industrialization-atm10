@@ -18,19 +18,19 @@
 
 1. Coal Bee -> Coal
 2. Coal -> Coal Dust
-3. Coal Dust in _Coke Oven_ -> Coke Dust
+3. Coal Dust in _Coke Oven_ -> Coke Dust + (500mB) Creosote (50% chance)
    - Replace Coke Oven with Pyrolyse Oven
-4. Coke Dust + Water in _Mixer_ -> Raw Synthetic Oil
-5. Raw Synthetic Oil in _Steam Blast Furnace_ -> Synthetic Oil
+4. Coke Dust + (100mB) Water in _Mixer_ -> (200mB) Raw Synthetic Oil
+5. (100mB) Raw Synthetic Oil in _Steam Blast Furnace_ -> (100mB) Synthetic Oil
    - Replace Steam Blast Furnace with EBF
-6. Synthetic Oil + Paper in _Mixer_ -> Rubber Sheet
+6. (100mB) Synthetic Oil + Paper in _Mixer_ -> (2) Rubber Sheet
 
 # Hydrochloric Acid (HCl)
 
 1. Salty Bee -> Salt
-2. Salt in _Electrolyzer_ -> Sodium Dust + Chlorine
-3. Water in _Electrolyzer_ -> Hydrogen and Oxygen
-4. Hydrogen + Chlorine in _Chemical Reactor_ -> Hydrochloric Acid
+2. (2) Salt in _Electrolyzer_ -> Sodium Dust + (125mB) Chlorine
+3. (3000mB) Water in _Electrolyzer_ -> (2000mB) Hydrogen and (1000mB) Oxygen
+4. (1000mB) Hydrogen + (1000mB) Chlorine in _Chemical Reactor_ -> (2000mB) Hydrochloric Acid
 
 # Soldering Alloy
 
@@ -43,7 +43,7 @@ Hard Way
 
 1. RuBee -> Ruby
 2. Ruby -> Ruby dust
-3. (6) Ruby Dust in _Centrifuge_ -> (1) Chromium Crushed Dust + (2) Al Dust
+3. (6) Ruby Dust in _Centrifuge_ -> Chromium Crushed Dust + (2) Al Dust
 4. Chromium Crushed Dust + 9000mB HCl in _Chemical Reactor_ -> (9000mB) Chromium Hydrochloric Solution
 5. (1000mB) Chromium Hydrochloric Solution in _Electrolyzer_ -> (3) Chromium Tiny Dust + (450mB) H + (450mB) Cl
 6. (9) Chromium Tiny Dust in _Crafting Table (or Packer)_ -> Chromium Dust
