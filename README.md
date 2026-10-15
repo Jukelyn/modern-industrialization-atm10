@@ -14,6 +14,7 @@
 | Sn           | Tin                    |
 | Pb           | Lead                   |
 | Ti           | Titanium               |
+| W            | Tungsten               |
 
 # Rubber Sheet
 
@@ -94,3 +95,12 @@ Titanium is able to be mined using the _Electric Quarry + Stainless Steel Drill_
 6. Ti Hot Ingot in _Vacuum Freezer_ -> Ti Ingot
 
 There is a Titanium Bee that is made from breeding a Diamond Bee with an Iron Bee. You can now use that bee for titanium.
+
+# Tungsten
+
+1. Raw W in _Macerator_ -> W Dust (50% chance for double)
+2. W Dust in _Unpacker_ -> (9) W Tiny Dust
+3. W Tiny Dust in _Electric Compressor_ -> W Nugget
+4. (9) W Nugget -> W Ingot
+
+_Immersive Engineering's Arc Furnace_ can smelt W Dust to W Ingots directly.
