@@ -72,6 +72,8 @@ Easy Way (need to do hard way first for the feeding block -- Mn Dust)
 
 1. (6) Fe Spawn Egg in _Centrifuge_ -> Manganese Bee Spawn Egg
 
+After getting the bee, stop producing Mn.
+
 # Stainless Steel
 
 1. (6) Fe Dust + Chromium Dust + Ni Dust + Mn Dust in _Mixer_ -> (9) Stainless Steel Dust
