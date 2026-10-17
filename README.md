@@ -70,7 +70,7 @@ Hard Way
 
 Easy Way (need to do hard way first for the feeding block -- Mn Dust)
 
-1. (6) Fe Spawn Egg in _Centrifuge_ -> Manganede Bee Spawn Egg
+1. (6) Fe Spawn Egg in _Centrifuge_ -> Manganese Bee Spawn Egg
 
 # Stainless Steel
 
