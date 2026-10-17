@@ -3,6 +3,10 @@
 | Abbreviation | Meaning                |
 | ------------ | ---------------------- |
 | EBF          | Electric Blast Furnace |
+|              |                        |
+| Cd           | Cadmium                |
+| Y            | Yttrium                |
+| Nd           | Neodymium              |
 | H            | Hydrogen               |
 | Cl           | Chlorine               |
 | HCl          | Hydrochloric Acid      |
@@ -15,6 +19,10 @@
 | Pb           | Lead                   |
 | Ti           | Titanium               |
 | W            | Tungsten               |
+
+# Monazite, Neodymium, Yttrium, and Cadmium
+
+Monazite is mined and also obtainable from the _Electric Quarry_ using _Stainless Steel Drills_. I reccomend using the first amounts to get the Monazite bee and then you are done with this. All you do with Monazite is _Centrifuge_ it for Neodymium Dust (Nd Dust), Yttrium Dust (Y Dust), and Cadmium Dust (Cd Dust). These will be used later on.
 
 # Rubber Sheet
 
