@@ -98,7 +98,7 @@ Titanium is able to be mined using the _Electric Quarry + Stainless Steel Drill_
 5. Ti Dust in _EBF (Kanthal Tier)_ -> Ti Hot Ingot
 6. Ti Hot Ingot in _Vacuum Freezer_ -> Ti Ingot
 
-There is a Titanium Bee that is made from breeding a Diamond Bee with an Iron Bee. You can now use that bee for titanium.
+There is a Titanium Bee that is made from breeding a Diamond Bee with an Iron Bee. You can now use that bee for titanium. It is not _as_ important to use the bee instead of the production line here, unlike Chromium and Manganese.
 
 # Tungsten
 
@@ -107,4 +107,4 @@ There is a Titanium Bee that is made from breeding a Diamond Bee with an Iron Be
 3. W Tiny Dust in _Electric Compressor_ -> W Nugget
 4. (9) W Nugget -> W Ingot
 
-_Immersive Engineering's Arc Furnace_ can smelt W Dust to W Ingots directly.
+_Immersive Engineering's Arc Furnace_ can smelt W Dust to W Ingots directly (requires progressing pretty much all the way through I.E.).
