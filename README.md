@@ -57,6 +57,8 @@ Easy Way (need to do hard way first for the feeding block -- Chromium Block)
 
 1. (6) RuBee Spawn Egg in _Centrifuge_ -> Chromium Bee Spawn Egg
 
+After getting Chromium automated via Bees, stop processing Ruby Dust (into Chromium Crushed Dust). HCl is used later on, no need to waste it here.
+
 # Manganese
 
 Hard Way
